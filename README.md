@@ -19,12 +19,12 @@ This  project aimed to establish the likelihood of a student to repay a loan sho
 ## Steps
 
 
--Step 1: Establish Data Objectives - Goal of assesing student loan repayement capability.
--Step 2: Data collection - Gather real-world data on students.
--Step 3: Data Preprocessing - Clean and preprocess the data using Python.
--Step 4: Exploratory Data Analysis -  Analyze and visulaize data trends using Matplotlib and Seaborn to identify key factors .
--Step 5: Model Development - Implement a Decision Tree Classifier to predict repayment capabilities.
--Step 6: Model Evaluation - Asses models accuracy and performace using the accuracy score
--Step 7: The Deliverable - Document the process and present findings
+- Step 1: Establish Data Objectives - Goal of assesing student loan repayement capability.
+- Step 2: Data collection - Gather real-world data on students.
+- Step 3: Data Preprocessing - Clean and preprocess the data using Python.
+- Step 4: Exploratory Data Analysis -  Analyze and visulaize data trends using Matplotlib and Seaborn to identify key factors .
+- Step 5: Model Development - Implement a Decision Tree Classifier to predict repayment capabilities.
+- Step 6: Model Evaluation - Asses models accuracy and performace using the accuracy score
+- Step 7: The Deliverable - Document the process and present findings
 
 
